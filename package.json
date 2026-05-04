@@ -1,0 +1,13 @@
+{
+  "name": "com.fabian-evers.test-package",
+  "version": "1.0.0",
+  "displayName": "Test Package",
+  "description": "This is a test",
+  "unity": "2019.1",
+  "dependencies": {
+ },
+  "author": {
+    "name": "Fabian Evers",
+    "url": "https://fabianevers.itch.io/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "TestPackageEditor",
+    "rootNamespace": "TestPackage",
+    "references": [
+        "GUID:867453e3d994b2d4897a4651ed8b87c7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
